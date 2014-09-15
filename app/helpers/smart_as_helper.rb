@@ -1,0 +1,2 @@
+module SmartAsHelper
+end
